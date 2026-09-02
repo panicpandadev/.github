@@ -1,12 +1,28 @@
 <div align="center">
 
-![Panic Panda header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0B0D,58:1B1B1F,100:FFD500&text=PANIC%20PANDA&fontColor=FFF8E7&fontSize=58&fontAlignY=38&desc=INDIE%20GAME%20STUDIO%20%E2%97%86%20T%C3%9CRK%C4%B0YE&descAlignY=57&descSize=16&animation=fadeIn)
+<br />
 
-[![Animated studio statement](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=900&color=FFD500&center=true&vCenter=true&width=760&lines=Games+with+sharp+hooks+%26+strange+hearts.;REFINED+GAMEPLAY+%E2%97%86+ATMOSPHERIC+WORLDS;CO-OP+CHAOS+%E2%97%86+QUESTIONABLE+IDEAS;BUILT+BY+PANDA%2C+FOR+PANDA.)](https://panicpanda.studio)
+<a href="https://panicpanda.studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.panicpanda.studio/assets/logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.panicpanda.studio/assets/logo-black.png">
+    <img src="https://www.panicpanda.studio/assets/logo-black.png" width="680" alt="Panic Panda" />
+  </picture>
+</a>
 
-[![Website](https://img.shields.io/badge/ENTER_THE_STUDIO-FFD500?style=for-the-badge&logo=googlechrome&logoColor=0B0B0D)](https://panicpanda.studio)
+<br />
+
+<a href="https://panicpanda.studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=700&amp;color=F5EFE4&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Games+with+sharp+hooks+%26+strange+hearts.;REFINED+GAMEPLAY+%E2%97%86+ATMOSPHERIC+WORLDS;CO-OP+CHAOS+%E2%97%86+QUESTIONABLE+IDEAS;BUILT+BY+PANDA%2C+FOR+PANDA.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Games+with+sharp+hooks+%26+strange+hearts.;REFINED+GAMEPLAY+%E2%97%86+ATMOSPHERIC+WORLDS;CO-OP+CHAOS+%E2%97%86+QUESTIONABLE+IDEAS;BUILT+BY+PANDA%2C+FOR+PANDA.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Games+with+sharp+hooks+%26+strange+hearts.;REFINED+GAMEPLAY+%E2%97%86+ATMOSPHERIC+WORLDS;CO-OP+CHAOS+%E2%97%86+QUESTIONABLE+IDEAS;BUILT+BY+PANDA%2C+FOR+PANDA." alt="Animated Panic Panda studio statement" />
+  </picture>
+</a>
+
+[![Website](https://img.shields.io/badge/ENTER_THE_STUDIO-111111?style=for-the-badge&logo=googlechrome&logoColor=F5EFE4)](https://panicpanda.studio)
 [![Steam](https://img.shields.io/badge/FIND_US_ON_STEAM-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/PanicPanda)
-[![Email](https://img.shields.io/badge/START_A_CONVERSATION-FFF8E7?style=for-the-badge&logo=gmail&logoColor=0B0B0D)](mailto:contact.panicpanda@gmail.com)
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-F5EFE4?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:contact.panicpanda@gmail.com)
 
 <sub>SMALL TEAM · SHARP HOOKS · STRANGE HEARTS</sub>
 
@@ -117,14 +133,20 @@ Panic Panda is an indie game studio focused on **clear, readable mechanics**, a 
 
 Publishing, co-development, marketing partnerships and selective production work.
 
-[![Contact Panic Panda](https://img.shields.io/badge/contact.panicpanda%40gmail.com-FFD500?style=for-the-badge&logo=gmail&logoColor=0B0B0D)](mailto:contact.panicpanda@gmail.com)
+[![Contact Panic Panda](https://img.shields.io/badge/contact.panicpanda%40gmail.com-F5EFE4?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:contact.panicpanda@gmail.com)
 
-[![Website](https://img.shields.io/badge/PANICPANDA.STUDIO-0B0B0D?style=flat-square&logo=googlechrome&logoColor=FFD500)](https://panicpanda.studio)
-[![Steam](https://img.shields.io/badge/PANIC_PANDA_ON_STEAM-0B0B0D?style=flat-square&logo=steam&logoColor=FFD500)](https://store.steampowered.com/developer/PanicPanda)
-![Profile views](https://komarev.com/ghpvc/?username=sentinelgame&label=PANDAS%20SPOTTED&color=FFD500&style=flat-square)
+[![Website](https://img.shields.io/badge/PANICPANDA.STUDIO-111111?style=flat-square&logo=googlechrome&logoColor=F5EFE4)](https://panicpanda.studio)
+[![Steam](https://img.shields.io/badge/PANIC_PANDA_ON_STEAM-111111?style=flat-square&logo=steam&logoColor=F5EFE4)](https://store.steampowered.com/developer/PanicPanda)
+![Profile views](https://komarev.com/ghpvc/?username=sentinelgame&label=PANDAS%20SPOTTED&color=555555&style=flat-square)
 
 **MAKE IT MEMORABLE.**
 
-</div>
+<br />
 
-![Panic Panda footer](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FFD500,42:1B1B1F,100:0B0B0D&section=footer&animation=fadeIn)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.panicpanda.studio/assets/icon-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.panicpanda.studio/assets/icon-black.png">
+  <img src="https://www.panicpanda.studio/assets/icon-black.png" width="58" alt="Panic Panda icon" />
+</picture>
+
+</div>
